@@ -1,1 +1,1 @@
-streamlit run "C:\Users\Rajiv Arora\Desktop\AI-model\ai.py"
+streamlit run "C:\Users\Rajiv Arora\Desktop\Ai-for-HU2.0-2\AI-model\ai.py"
