@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Rajiv Arora\Desktop\AI-model\ai.py"
