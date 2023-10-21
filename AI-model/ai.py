@@ -13,7 +13,7 @@ from streamlit_option_menu import option_menu
 
 # loading the saved models
 
-diabetes_model = pickle.load(open('C:/Users/siddhardhan/Desktop/Multiple Disease Prediction System/saved models/diabetes_model.sav', 'rb'))
+diabetes_model = pickle.load(open('C:\Users\Rajiv Arora\Desktop\Ai-for-HU2.0-2\AI-model\saved models\diabetes_model.sav', 'rb'))
 
 
 
